@@ -78,7 +78,17 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br>
 <br>
 <br>
-### Projects:
+<br>
+<br>
+<br>
+<br>
+<br>
+## Projects:
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
