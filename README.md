@@ -90,9 +90,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   - Used Languages: HTML5, CSS3, React JS
   - Mechanisms: React Routing, Context api, Bootstrap, React Spring, Material UI, Firebase Auth, Heroku 
 <br><br> 
-  - Live Site: [https://creative-agency-30313.web.app](https://creative-agency-30313.web.app)
+- Live Site: [https://creative-agency-30313.web.app](https://creative-agency-30313.web.app)
 <br>
-  - Git Repo.: [https://github.com/mmhk30313/creative-agency-client](https://github.com/mmhk30313/creative-agency-client)
+- Git Repo.: [https://github.com/mmhk30313/creative-agency-client](https://github.com/mmhk30313/creative-agency-client)
 <br>
 <br>
 <br>
