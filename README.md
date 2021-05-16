@@ -87,7 +87,16 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ## Projects:
  ### Travel Solution:
   - It is a real life, user friendly, single page, full stack, React web application. User can easily take different kinds of travel services from my travel solution app.This web app also provides multi-services on travelling
-  - Used Languages: HTML5, CSS3, React JS
+  - Tools & Technologies:<br>
+          - ReactJS
+          - NodeJS
+          - HTML5
+          - CSS3
+          - Material Ui
+          - MongoDB
+          - Firebase
+          - Heroku
+          - Git
   - Mechanisms: React Routing, Context api, Bootstrap, Material UI, react icons, react multi carousel, Firebase Auth, Heroku 
 <br><br> 
 - Live Site: [https://travel-solution-bd.web.app/](https://travel-solution-bd.web.app/)
