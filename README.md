@@ -95,16 +95,16 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ### Creative Agency:
    - A simple website can be used for any kind of agency. Any agency can be involved here and helps  others with their works. The website has an admin panel. So it can be             controlled by the admin
-   - Tools & Technologies: 
-    - ReactJS
-    - NodeJS
-    - HTML5
-    - CSS3
-    - Material Ui
-    - MongoDB
-    - Firebase
-    - Heroku
-   - Git
+   - Tools & Technologies:<br>
+          - ReactJS
+          - NodeJS
+          - HTML5
+          - CSS3
+          - Material Ui
+          - MongoDB
+          - Firebase
+          - Heroku
+          - Git
    - Mechanisms: React Routing, Context api, Bootstrap, React Spring, Material UI, Firebase Auth, Heroku 
 <br><br>
 - Live Site: [https://creative-agency-30313.web.app](https://creative-agency-30313.web.app)
