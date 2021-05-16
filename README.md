@@ -102,8 +102,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Live Site: [https://travel-solution-bd.web.app](https://travel-solution-bd.web.app/)
 - Git Repo.: [https://github.com/mmhk30313/Travel-Solution](https://github.com/mmhk30313/Travel-Solution)
 
-### Travel Solution:
-  - It is a real life, user friendly, single page, full stack, React web application. User can easily take different kinds of travel services from my travel solution app.This web app also provides multi-services on travelling
+### Book Life:
+  - It's a single page web application. For user authentication firebase is used. It's look like a e-commerce book publication site.It has an admin panel for managing data
   - Tools & Technologies:<br>
           - ReactJS
           - NodeJS
@@ -116,8 +116,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
           - Git
   - Mechanisms: React Routing, Context api, Bootstrap, Material UI, react icons, react multi carousel, Firebase Auth, Heroku 
 <br><br> 
-- Live Site: [https://travel-solution-bd.web.app](https://travel-solution-bd.web.app/)
-- Git Repo.: [https://github.com/mmhk30313/Travel-Solution](https://github.com/mmhk30313/Travel-Solution)
+- Live Site: [https://book-life-bd.web.app](https://book-life-bd.web.app/)
+- Git Repo.: [https://github.com/mmhk30313/Book-Life](https://github.com/mmhk30313/Book-Life)
 
 ### Creative Agency:
    - A simple website can be used for any kind of agency. Any agency can be involved here and helps  others with their works. The website has an admin panel. So it can be             controlled by the admin
