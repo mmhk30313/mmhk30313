@@ -86,7 +86,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ## Projects:
  ### Travel Solution:
-  - It is a real life, user friendly, single page, full stack, React web application. User can easily take different kinds of travel services from my travel solution app.This web app also provides multi-services on travelling
+  - It is a real life, user friendly, single page, full stack, React web application. User can easily take different kinds of travel services from my travel solution app. It has a payment gateway system.This web app also provides multi-services on travelling.
   - Tools & Technologies:<br>
           - ReactJS
           - NodeJS
@@ -103,7 +103,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Git Repo.: [https://github.com/mmhk30313/Travel-Solution](https://github.com/mmhk30313/Travel-Solution)
 
 ### Book Life:
-  - It's a single page web application. For user authentication firebase is used. It's look like a e-commerce book publication site.It has an admin panel for managing data
+  - It's a single page web application. For user authentication firebase is used. It's look like a e-commerce book publication site. There is a simple cash on delivery system for the user.It has an admin panel for managing data
   - Tools & Technologies:<br>
           - ReactJS
           - NodeJS
