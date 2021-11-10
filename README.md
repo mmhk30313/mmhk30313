@@ -4,7 +4,7 @@
 <a href="https://twitter.com/MdMehed17868520">
   <img align="left" alt="Aporbo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/mmhk-info">
+<a href="https://www.linkedin.com/in/mehedihasan30313/">
   <img align="left" alt="Aporbo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
