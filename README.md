@@ -1,11 +1,8 @@
 ### Hey folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
 
-<a href="https://twitter.com/MdMehed17868520">
-  <img align="left" alt="Aporbo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/mehedihasan30313/">
-  <img align="left" alt="Aporbo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="mmhk's LinkedIN" width="22px" src="https://camo.githubusercontent.com/5e276c6fba1d9ca47f6fece34740b3de2884779ab8bb240c71123c467adc5936/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6c696e6b6564696e" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mmhk30313.mmhk30313)
